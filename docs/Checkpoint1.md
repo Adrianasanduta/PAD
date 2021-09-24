@@ -48,3 +48,7 @@ List of technologies:
 - CassandraDB;
 - Docker;
 - ... TBD.
+
+# Diagram 
+
+![Diagram](Diagram.png)
